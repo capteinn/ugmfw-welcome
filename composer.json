@@ -1,0 +1,19 @@
+{
+    "name": "ugmfw/welcome",
+    "description": "Selamat Datang di UGM Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ugmfw\\Welcome\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdur",
+            "email": "abdurrahman.trimanto@mail.ugm.ac.id"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
